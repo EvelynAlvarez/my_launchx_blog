@@ -1,7 +1,7 @@
 baseURL = "https://evelynalvarez.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Evelyn"
-theme = "evelyn-alvarez-theme"
+theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
 
